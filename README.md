@@ -1,6 +1,7 @@
 # public-apis-json-api
 A json api for the <a href="https://github.com/public-apis/public-apis">public-apis</a> repository scrapped with puppeteer, it's json format organized by the categories (animals, books, weather...)
 
+<img src="./screenshot/screenshot.png" alt="example"/>
 ## What it contains 
  - 51 category
  - 1400+ api
