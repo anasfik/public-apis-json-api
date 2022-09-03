@@ -37,5 +37,5 @@ npm init
 tsc init
 ```
 
-that's it, you can work on it as you want
+That's it, you can work on it as you want
 
